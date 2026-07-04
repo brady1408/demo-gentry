@@ -6,3 +6,8 @@
 - Merge
 - Push
 - Demo the results
+
+## After INIT
+
+- create change branch
+- merge change branch
